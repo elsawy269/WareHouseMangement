@@ -1,0 +1,11 @@
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\bin\Debug\netcoreapp1.1\WareHouseMangement.deps.json
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\bin\Debug\netcoreapp1.1\WareHouseMangement.runtimeconfig.json
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\bin\Debug\netcoreapp1.1\WareHouseMangement.runtimeconfig.dev.json
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\bin\Debug\netcoreapp1.1\WareHouseMangement.dll
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\bin\Debug\netcoreapp1.1\WareHouseMangement.pdb
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\obj\Debug\netcoreapp1.1\WareHouseMangement.csprojResolveAssemblyReference.cache
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\obj\Debug\netcoreapp1.1\WareHouseMangement.csproj.CoreCompileInputs.cache
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\obj\Debug\netcoreapp1.1\WareHouseMangement.AssemblyInfo.cs
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\obj\Debug\netcoreapp1.1\WareHouseMangement.dll
+E:\KhaledHareby\WareHouseMangement\WareHouseMangement\obj\Debug\netcoreapp1.1\WareHouseMangement.pdb
